@@ -3801,6 +3801,7 @@ main .bg-signal.rounded-3xl {
   border: 1px solid var(--color-rule);
   border-radius: 1.5rem;
   background: var(--card);
+  color: var(--color-foreground);
   transition: transform 0.4s cubic-bezier(.22, .61, .36, 1), box-shadow 0.4s ease, border-color 0.3s ease;
 }
 .project-card:hover {
